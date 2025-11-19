@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Estatísticas
-![Anurag's GitHub Statis] (https://github-readme-status.vercel.app/api?username=Sr-Rafael&show_icons_true&theme=radical&include_all_commits=true&locale=pt-br)
+![Anurag's GitHub Statis](https://github-readme-status.vercel.app/api?username=Sr-Rafael&show_icons_true&theme=radical&include_all_commits=true&locale=pt-br)
