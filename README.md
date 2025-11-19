@@ -21,5 +21,5 @@ Here are some ideas to get you started:
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="![GitHub Statis](https://github-readme-status.vercel.app/api?username=Sr-Rafael&show_icons_true&theme=radical&include_all_commits=true&locale=pt-br)"
+    src="https://github-readme-status.vercel.app/api?username=Sr-Rafael&show_icons_true&theme=radical&include_all_commits=true&locale=pt-br"
   />
